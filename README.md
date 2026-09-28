@@ -6,7 +6,7 @@ ganhar experiência, evoluir e enfrentar chefões.
 MAS INFORMAÇÕES NO DOCUMENTO PUBLICAD0!
 
 CRIADORES: 
-Gabriel Triguete
-Murillo Oliveira
-João Gabriel Siman Tescaro
-Victor Henrique
+Gabriel Triguete,
+Murillo Oliveira,
+João Gabriel Siman Tescaro,
+Victor Henrique.
