@@ -1,3 +1,4 @@
+Nome do jogo: Pokelike
 
 O projeto implementa um sistema de batalhas inspirado no universo Pokémon, desenvolvido em Java com 
 aplicação de conceitos de Programação Orientada a Objetos (POO). O programa permite escolher um 
